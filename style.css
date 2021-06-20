@@ -15,7 +15,7 @@
     background-color: red;
     position:relative;
     top: 150px;
-    border-radius: 25px;
+    border-radius: 50px;
 }
 .animate{
     animation: jump 0.3s linear;
